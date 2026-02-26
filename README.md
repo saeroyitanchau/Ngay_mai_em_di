@@ -9,7 +9,7 @@
 </p>
 <br>
 <p>
-  P/s : Chắc khi nào xong dự án rồi viết cre tác giả, hay mô tả dự án ở nơi khác oke hơn
+  P/s : Chắc khi nào xong dự án rồi viết cre, tác giả, hay mô tả dự án ở nơi khác oke hơn
 </p>
 <br>
 <br>
