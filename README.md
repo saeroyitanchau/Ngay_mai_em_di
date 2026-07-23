@@ -16,3 +16,18 @@
 22:08 - 26/2/2026
 <br>
 Nguyễn Đình Bảo
+<br>
+<br>
+<h2>
+  heading này để nói linh tinh qua những lần commit trên repo 
+</h2>
+<br>
+<p>
+  mục tiêu ban đầu thì chắc là hiểu cách phân chia, xử lý token và các cách tính toán của các thuật toán liên quan đối với dữ liệu của mấy con Generative AI, chứ phát triển một model cũng hơi khê vì mình chưa nghĩ ra được gì hay để cạnh tranh với những người đã đi trước =))
+  <br>
+  <br>
+  13:27 - 7/23/2026
+</p>
+
+
+
